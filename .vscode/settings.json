@@ -1,0 +1,8 @@
+{
+    "spellchecker.ignoreWordsList": [
+        "Contextualización",
+        "Wilson",
+        "Ramirez"
+    ],
+    "spellchecker.language": "es_ANY"
+}
