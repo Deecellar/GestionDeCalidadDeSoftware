@@ -6,9 +6,9 @@
 - Presentación del curso
 - Actividad Inicial
 #### Datos del Docente:
-| Docente | Celular |
-| :------ | ------: | 
-| Wilson Andrés Ramirez R. |  3126023418 |
+| Docente                  |    Celular |
+| :----------------------- | ---------: |
+| Wilson Andrés Ramirez R. | 3126023418 |
 
 #### Gráfico 1:
 ```mermaid
@@ -24,8 +24,7 @@ Construcción_de_Software --> Gestión_de_proyectos[Gestión de proyectos]
 Ver este [video](https://www.youtube.com/watch?v=FAhdlq0Zytk) primero
 -----
 - Video trata de las metodologías ágiles
-- video muestra que no es un silver bullet
-- Métodos agiles y Métodos tradicionales son compatibles
+- video muestra que no es un bala de plata
+- Métodos ágiles y Métodos tradicionales son compatibles
 - Personas sobre Herramientas
-- Pero las herramientas ayuda a tener software de calidad via testing en el periodo de un sprint
-- 
+- Pero las herramientas ayuda a tener software de calidad via test en el periodo de un esprint

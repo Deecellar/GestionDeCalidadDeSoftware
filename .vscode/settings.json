@@ -2,7 +2,8 @@
     "spellchecker.ignoreWordsList": [
         "Contextualización",
         "Wilson",
-        "Ramirez"
+        "Ramirez",
+        "esprint"
     ],
     "spellchecker.language": "es_ANY"
 }
